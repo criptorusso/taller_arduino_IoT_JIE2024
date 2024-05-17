@@ -1,4 +1,4 @@
-Ojetivos del taller:
+Objetivos del taller:
 
 1.  Explicar el funcionamiento de la placa Arduino UNO
 2. Mostrar el uso del IDE Arduino y presentar los pasos a seguir para la creación y la compilación del código
