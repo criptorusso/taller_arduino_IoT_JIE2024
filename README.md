@@ -11,6 +11,6 @@ Objetivos del taller:
 Existen dos videos del taller
 
 video del taller teórico:
-https://www.youtube.com/watch?v=gGH9XTY_xbc&t=55s
+https://www.youtube.com/watch?v=gGH9XTY_xbc&t=55s <br>
 video del taller práctico:
-https://www.youtube.com/watch?v=p0pRuiCPw3Q&t=1s
+https://www.youtube.com/watch?v=p0pRuiCPw3Q&t=1s <br>
