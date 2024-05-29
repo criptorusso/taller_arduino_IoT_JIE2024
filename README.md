@@ -8,3 +8,9 @@ Objetivos del taller:
 6. Configurar un servidor API Restful en el Raspberry pi
 7. Configurar un script de envio de alertas en el servidor utilizando el bot de telegram para recibir las alertas en el teléfono móvil
 
+Existen dos videos del taller
+
+video del taller teórico:
+https://www.youtube.com/watch?v=gGH9XTY_xbc&t=55s
+video del taller práctico:
+https://www.youtube.com/watch?v=p0pRuiCPw3Q&t=1s
